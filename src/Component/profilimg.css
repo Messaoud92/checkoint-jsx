@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    }
+    body {
+    font-size: 18px;
+    font-family: "Carrois Gothic SC", sans-serif;
+    margin: 0;
+    padding: 0;
+    font-weight: 400;
+    overflow-x: hidden;
+    
+    }
+.fimg{
+    margin-top: 10%;
+    margin-left:20% ;
+    display: flex;
+    position: relative;
+    justify-content: flex-end;
+
+}
+.fimg img{
+
+}
